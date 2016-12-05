@@ -1,2 +1,7 @@
-# hello_word
-just test
+#include <iostream>
+int main()
+{
+  using namespace std;
+  cout << "hello world";
+  cout << endl;
+}
